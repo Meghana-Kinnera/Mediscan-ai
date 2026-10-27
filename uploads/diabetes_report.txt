@@ -1,0 +1,6 @@
+Patient Name: Lakshmi Devi
+Age: 54
+Diagnosis: Type 2 Diabetes
+HbA1c: 7.5%
+Fasting Blood Sugar: 160 mg/dL
+Advice: Lifestyle changes and metformin
